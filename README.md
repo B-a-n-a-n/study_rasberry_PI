@@ -11,3 +11,7 @@ measuring voltages on the capacitor using special circuit board
 ## 3 lab
 
 plotting measured data (based on previous lab)
+
+## 4 lab
+
+plotting measured data (pressure) from existing file, part of group project
